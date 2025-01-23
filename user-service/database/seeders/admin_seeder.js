@@ -1,0 +1,1 @@
+// Seeder for creating admin users

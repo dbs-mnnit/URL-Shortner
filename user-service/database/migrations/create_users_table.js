@@ -1,0 +1,1 @@
+// Migration for creating users table

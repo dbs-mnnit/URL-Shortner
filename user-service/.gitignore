@@ -1,0 +1,77 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Test coverage
+coverage/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Debugger
+*.stackdump
+
+# NPM binary directory
+.npm/
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Optional npm cache directory
+.npm/
+
+# Deployment
+.firebase/
+.next/
+.nuxt/
+
+# Logs and database
+*.log
+*.sql
+*.sqlite
+
+# Sensitive files
+secrets.json
+private.key
+cert.pem
+key.pem
+
+# Generated documentation
+docs/
+
+# Lint and formatting
+.eslintcache
+.prettierignore
+
+# Git-related
+*.rej
